@@ -3,7 +3,7 @@ package org.casino.model;
 import java.util.*;
 
 
-public class PorkerModel {
+public class PokerModel {
 
     private List<Player> players;
     private List<Card> deck;
